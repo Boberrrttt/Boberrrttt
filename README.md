@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hey, I’m Chris 👋
 
-<!--
-**Boberrrttt/Boberrrttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer (Mobile & Web)  
+📱 Building production apps with React Native + Expo  
+🧠 Learning system design, scalability, and backend performance  
+🌍 Based in the Philippines
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Frontend**
+- React Native (Expo)
+- Next.js
+- Tailwind / NativeWind
+
+**Backend**
+- Node.js
+- NestJS
+- Supabase (Postgres, Auth, Storage)
+- REST APIs
+
+**Cloud / Infra (Learning)**
+- AWS
+- Docker
+- CI/CD
+
+**Dev Tools**
+- GitHub
+- ClickUp
+- Sentry
+- React Query / SWR
+
+---
+
+## ✨ What I Bring to the Table
+
+- 🚀 Build end-to-end features (mobile → backend → cloud)
+- ⚡ Performance-focused API & frontend optimization
+- 🔐 Strong auth flows (OAuth, email/password, sessions)
+- 🧠 Systems thinking (scalability, reliability, architecture)
+- 🛠 Comfortable owning features from idea → production
+- 📈 Product-minded: building for real users, not just demos
+
+---
+
+## 🎯 What I’m Focused On
+
+- Designing scalable backend architectures  
+- Speeding up APIs & reducing latency  
+- Auth systems (OAuth + email/password flows)  
+- Real-world system design (millions of users scale)  
+- Mobile app performance & reliability  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: https://linkedin.com/in/YOURNAME  
+- Portfolio: https://your-portfolio.com  
+- Email: your@email.com  
+
+---
+
+> “Build things. Break things. Learn fast. Ship better.”
