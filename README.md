@@ -65,11 +65,7 @@
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=Boberrrttt&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs?username=Boberrrttt&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Boberrrttt&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Boberrrttt&theme=tokyonight" width="48%" />
 </p>
 
 ---
