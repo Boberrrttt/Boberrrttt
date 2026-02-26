@@ -1,8 +1,8 @@
-# Hey, I’m Chris 👋
+# Hey, I’m Robert 👋
 
 🚀 Full-Stack Developer (Mobile & Web)  
 📱 Building production apps with React Native + Expo  
-🧠 Learning system design, scalability, and backend performance  
+🧠 Focused on system design, scalability, and backend performance  
 🌍 Based in the Philippines
 
 ---
@@ -18,9 +18,11 @@
 - Node.js
 - NestJS
 - Supabase (Postgres, Auth, Storage)
+- MongoDB
 - REST APIs
+- GraphQL
 
-**Cloud / Infra (Learning)**
+**Cloud / Infra**
 - AWS
 - Docker
 - CI/CD
