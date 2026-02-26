@@ -74,19 +74,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Boberrrttt&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 
-- LinkedIn: https://linkedin.com/in/YOURNAME  
-- Portfolio: https://your-portfolio.com  
-- Email: your@email.com  
+- LinkedIn: https://www.linkedin.com/in/robert-salvo-2513a9283/
+- Portfolio: https://robert-salvo.vercel.app  
+- Email: salvo.robertroy@gmail.com  
 
 ---
 
