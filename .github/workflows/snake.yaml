@@ -11,6 +11,8 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Generate snake animation
@@ -27,3 +29,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
+          force_orphan: true   # ensures push works even if branch is new
